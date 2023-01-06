@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 28px;
+}
